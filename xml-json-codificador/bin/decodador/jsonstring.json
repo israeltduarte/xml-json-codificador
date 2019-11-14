@@ -1,0 +1,11 @@
+{ codigo: "1", titulo: [
+        { linguagem: "english", valor: "Sex, Drugs and Rock'n'Roll"
+        },
+        { linguagem: "portugues", valor: "Sexo, Drogas e Rock'n'Roll"
+        }
+    ], publicacao: "2000-06-15", editora: "Editora Abril", autores: [
+        "José da Silva",
+        "Maria Brasil"
+    ], capa: { formato: "png", valor: "..."
+    }
+}
